@@ -1,0 +1,19 @@
+{
+  "name": "vochlea-ct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAH1983/Vochlea-CT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAH1983/Vochlea-CT/issues"
+  },
+  "homepage": "https://github.com/CAH1983/Vochlea-CT#readme"
+}
